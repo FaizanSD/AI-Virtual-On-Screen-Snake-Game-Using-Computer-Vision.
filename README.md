@@ -1,0 +1,2 @@
+# AI-Virtual-On-Screen-Snake-Game-Using-Computer-Vision.
+This AI Snake Game is written in Python Programming Language using Computer Vision and Machine Learning. With the development in the areas of augmented reality these devices are becoming compact in the form of wireless technologies. It will detect our fingertip from system cam (Easy Cam) or External Webcam as the Snake’s head and we can Control/Perform the snake actions with our fingertip.
